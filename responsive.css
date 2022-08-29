@@ -1,0 +1,13 @@
+@media screen and (max-width:770px)
+{
+    .veg
+    {
+        padding-left: 50px;
+    }
+
+    .card-text
+    {
+        margin-left: 0;
+        width: 100%;
+    }
+}

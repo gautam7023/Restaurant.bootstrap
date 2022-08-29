@@ -1,0 +1,84 @@
+.veg
+{
+    padding-left: 460px;
+    color: white;
+}
+.card-img-top
+{
+    border-radius: 20px;
+    border: 0px 0px 3px white;
+}
+.card-img-top:hover
+{
+    transform: scale(1.05);
+}
+.card-title
+{
+    text-align: center;
+}
+.card-text
+{
+    text-align: center;
+    background-color: orange;
+    padding: 10px;
+    color: white;
+    width: 50%;
+    border-radius: 20px;
+    margin-left: 85px;
+    cursor: pointer;
+}
+.card-text:hover
+{
+    background-color: green;
+}
+h3
+{
+    text-align: center;
+    padding: 8px;
+    color: black;
+    position: sticky;
+    position: -webkit-sticky;
+    width: 100%;
+    text-decoration:overline;
+}
+h3:hover
+{
+
+}
+.dropdown-item:hover
+{
+    background-color: teal;
+    border-radius: 20px;
+}
+.dropdown-menu
+{
+    margin-top: 8px;
+    text-align: center;
+    border-radius: 0px;
+}
+.nav-item:hover
+{
+    background-color: white;
+    border-radius: 20px;
+    padding-left: px;
+}
+td
+{
+    color: blue;
+    padding: 20px;
+    padding-left: 100px;
+
+}
+.submit
+{
+    color: white;
+    background-color: blue;
+}
+.submit:hover
+{
+    background-color: green;
+}
+.tbl
+{
+    height: 50px;
+}
